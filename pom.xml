@@ -33,9 +33,9 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.7.0</muleVersion>
-						<username>kalvintechsolmahesh</username>
-						<password>Mahesh9951@#$</password>
-						<applicationName>jenkinspiplines</applicationName>
+						<username>polireddy12327</username>
+						<password>Polireddy123</password>
+						<applicationName>digitalananlysis</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
